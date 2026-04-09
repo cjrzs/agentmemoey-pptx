@@ -1,0 +1,5 @@
+.DS_Store
+agent-memory-opening-deck/node_modules/
+agent-memory-opening-deck/rendered/
+agent-memory-opening-deck/rendered_pdf/
+agent-memory-opening-deck/.~*
