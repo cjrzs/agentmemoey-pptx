@@ -1,0 +1,11 @@
+{
+  "name": "supermemory-mempalace-deep-dive-deck",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "node build-deck.cjs"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
